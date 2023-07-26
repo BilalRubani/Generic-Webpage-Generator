@@ -5,6 +5,8 @@ The generator allows the user to provide specific details in order to create a w
 
 The webpage template is based off of The Odin Project's Landing Page, in order to keep the design general enough to fit every user's needs.
 
+The index.html and style.css files are provided as an example result of what the webpage will look like when completely generated.
+
 To get started, simply place the .py file within a folder, and after answering all prompts when running the file, your new html file will be present within the folder itself.
 
 You're all Set! Make your dream webpage now!
